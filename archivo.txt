@@ -1,6 +1,6 @@
 Linea de Prueba
-YAHIR ESPINOZA
-OSVALDO ORTIZ
+-YAHIR ESPINOZA
+-OSVALDO ORTIZ
 Otra linea de prueba
-ANGEL VILLEGAS
+-ANGEL VILLEGAS
 Tercera linea de prueba
